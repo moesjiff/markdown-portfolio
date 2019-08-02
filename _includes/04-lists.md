@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Books
+2. Boardgames
+3. DiscGolf
